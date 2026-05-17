@@ -1,0 +1,3 @@
+Hello, world!
+This is a sample input file.
+Process this text line by line.
